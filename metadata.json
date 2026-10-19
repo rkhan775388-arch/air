@@ -1,0 +1,6 @@
+{
+  "name": "Air Nine",
+  "description": "An all-in-one AI workspace with real-time push-to-talk voice mode, model arena, trust check, project spaces, and task flow.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
